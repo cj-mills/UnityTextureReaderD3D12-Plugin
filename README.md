@@ -1,5 +1,5 @@
 # UnityTextureReaderD3D12-Plugin
- This repository contains the source code for the UnityTextureReaderD3D12 plugin, a native plugin for Unity that enables efficient pixel data reading from Direct3D12 textures.
+This repository contains the Visual Studio project for the UnityTextureReaderD3D12 plugin, a native plugin for Unity that enables efficient pixel data reading from Direct3D12 textures.
 
 
 
@@ -41,3 +41,4 @@ To use the UnityTextureReaderD3D12 plugin in your Unity project, copy the `Unity
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
